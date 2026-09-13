@@ -87,28 +87,10 @@ The complete schematic and a four-layer PCB were designed using KiCad software. 
 
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Harshadvali-2307/RA6M5-Based-IoT-Development-Board-/blob/6b445416e7a1036a75bcef0e288bc81ffed1055e/suretrust%20final%20project%20report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -116,38 +98,38 @@ The complete schematic and a four-layer PCB were designed using KiCad software. 
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+-SURE TRUST (SURE ProEd): https://www.suretrustforruralyouth.com
+-KiCad EDA Suite & Docs: https://www.kicad.org
+-SnapMagic (CAD Libraries): https://www.snapmagic.com
+-Ultra Librarian (Footprints & Models): https://www.ultralibrarian.com
+-Octopart (Component Sourcing & Datasheets): https://www.octopart.com
+-Google Gemini AI (Learning Assistant): https://gemini.google.com
 ---
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+Completing my 6-month internship at SURE TRUST was a transformative experience. Beyond strengthening my technical foundation in PCB Designing, the Life Skills Training (LST) and Soft Skills Training (SST) programs shaped me into a corporate-ready professional. I gained crucial insights into emotional intelligence, effective workplace communication, personal branding, and career navigation during recessions. From understanding financial job roles and corporate expectations to crafting a professional CV, LST and SST equipped me with the mindset, ethics, and adaptability needed to thrive in today's evolving industry.
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities .....As part of my community service journey, I actively participated in initiatives focused on **environmental sustainability and supporting underprivileged communities**. I contributed to **8 tree plantation activities**, promoting environmental awareness and encouraging greener surroundings, along with **8 food donation activities** aimed at providing essential support to people in need. These experiences helped me develop a stronger sense of **social responsibility, teamwork, leadership, empathy, and community engagement**. Through these activities, I learned the importance of contributing to society beyond academics and professional development while working collaboratively to create a positive impact in the community.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
+ SRI KRISHNADEVARAYA UNIVERSITY,ANANTHAPURAMU
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+ ANANTHAPURAMU
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
+ <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
@@ -181,7 +163,16 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+I would like to sincerely thank everyone who supported and guided me throughout my internship journey at SURE TRUST.
+
+I am especially grateful to Mr. Paramesh Sir, Hardware Engineer & PCB Designer at KidosInfotech, for conducting regular technical sessions over Google Meet for four months. His guidance in KiCad EDA, PCB designing, and practical hardware concepts helped me build a strong technical foundation and gain confidence in real-world PCB design.
+
+I would also like to express my heartfelt gratitude to Prof. Radhakumari Challa Mam, Founder & Director of SURE TRUST, for organizing and leading the Life Skills Training (LST) and Soft Skills Training (SST) programs. Her dedication, discipline, and leadership motivated me to develop not only my professional skills but also the right attitude, values, and mindset for my career.
+
+I am equally thankful to my friends and team members for their continuous support, teamwork, knowledge sharing, and encouragement throughout this journey. Working together made the learning experience more meaningful and enjoyable.
+
+Finally, I extend my sincere thanks to SURE TRUST for providing me with such a valuable learning platform. This internship has contributed significantly to my technical, professional, and personal growth, and I will carry these experiences and lessons forward in my future career.
+
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
