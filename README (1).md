@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> KOLIMI MOHAMMED HARSHAD VALI </p>
+    <p><strong>Email ID:</strong> kmdharshadvalig5pcb@gmail.com </p>
+    <p><strong>College Name:</strong> SRI KRISHNADEVARAYA UNIVERSITY COLLEGE OF ENGINEERING AND TECHNOLOGY</p>
+    <p><strong>Branch/Specialization :</strong> ELECTRICAL AND ELECTRONICS ENGINERING  </p>
+    <p><strong>College ID:</strong> 2210431 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> PCB DESIGNING </p>
+    <p><strong>Instructor Name:</strong> MR.PARAMESH KUMAR SIR </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 MONTHS </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Mr.Paramesh kumar sir </p>
+<p><strong>Trainer Email ID:</strong>kidosinfotech@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Senior Hardware Design Engineer </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,30 +63,28 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During my engineering journey, my **internship at SureTrust** played an important role in developing my practical skills in **PCB design and embedded hardware development**. As part of this learning journey, I designed a custom **4-layer IoT Development Board based on the Renesas RA6M5 microcontroller**. The board integrates **BLE connectivity, USB Type-C Power Delivery, MicroSD storage, power management, and multiple communication interfaces**.
+
+Through this project, I gained hands-on experience in **schematic capture, component selection, power-path design, PCB layer stack-up planning, component placement, high-speed and differential-pair routing, signal integrity, noise reduction, and design-rule verification**. I also focused on **power integrity, thermal considerations, EMI/EMC aspects, and manufacturability** while developing the board. This project strengthened my ability to translate circuit requirements into a structured, reliable, and production-oriented PCB design and helped me gain valuable real-world experience during my **SureTrust internship**.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &ltRA6M5-Based IoT Development Board with BLE, USB-C, Battery Management, QSPI Flash, microSD, and Qwiic Interface</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: RA6M5-Based IoT Development Board with BLE, USB-C, Battery Management, QSPI Flash, microSD, and Qwiic Interface</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+ The objective of this project was to design a professional embedded hardware development board using the Renesas RA6M5 microcontroller. The board was developed to support modern IoT (Internet of Things) applications by integrating multiple hardware components into a single PCB.
+The hardware includes USB Type-C power input, battery charging and protection, Bluetooth Low Energy (BLE) communication, QSPI Flash memory, microSD card support, Qwiic connector for sensors, SWD programming interface, status LEDs, and voltage regulation circuits.
+The complete schematic and a four-layer PCB were designed using KiCad software. The design follows standard PCB design practices, including proper component placement, signal routing, power distribution, and Design Rule Check (DRC). The project helped improve practical knowledge in PCB design, embedded systems, hardware architecture, and electronic circuit design.
+
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
